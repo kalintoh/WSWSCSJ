@@ -1,4 +1,4 @@
-### ♂ 19 野本
+### Bi Boom Boom Bi
 
 <!--
 **WSWSCSJ/WSWSCSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
