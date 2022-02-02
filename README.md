@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">
-    <b>Hi there, I'm <a href="https://github.com/WSWSCSJ">WSWSCSJ</a> 👋</b>
+    <b>Hi there, I'm <a href="https://wswscsj.github.io/think/">WSWSCSJ</a> 👋</b>
   </h1>
 </p>
 <p align="center">
